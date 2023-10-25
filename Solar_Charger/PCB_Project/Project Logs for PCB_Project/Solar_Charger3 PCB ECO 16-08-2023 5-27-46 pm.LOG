@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Member From Class: ClassName=Solar_Charger Member=C1
+Added Component: Designator=Cx?(CN1)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=Cx?-1
+Added Pin To Net: NetName=NetC2_2 Pin=Cx?-2
+Added Member To Class: ClassName=Solar_Charger Member=Component Cx? 33pF

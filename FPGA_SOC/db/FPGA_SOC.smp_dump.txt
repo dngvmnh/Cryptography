@@ -1,0 +1,52 @@
+
+State Machine - |FPGA_SOC|system:nios_system|aes_wrapper:aes_0|aes:DUT|aes_core:core|aes_core_ctrl_reg
+Name aes_core_ctrl_reg.CTRL_IDLE aes_core_ctrl_reg.CTRL_NEXT aes_core_ctrl_reg.CTRL_INIT 
+aes_core_ctrl_reg.CTRL_IDLE 0 0 0 
+aes_core_ctrl_reg.CTRL_INIT 1 0 1 
+aes_core_ctrl_reg.CTRL_NEXT 1 1 0 
+
+State Machine - |FPGA_SOC|system:nios_system|aes_wrapper:aes_0|aes:DUT|aes_core:core|aes_key_mem:keymem|key_mem_ctrl_reg
+Name key_mem_ctrl_reg.CTRL_DONE key_mem_ctrl_reg.CTRL_GENERATE key_mem_ctrl_reg.CTRL_INIT key_mem_ctrl_reg.CTRL_IDLE 
+key_mem_ctrl_reg.CTRL_IDLE 0 0 0 0 
+key_mem_ctrl_reg.CTRL_INIT 0 0 1 1 
+key_mem_ctrl_reg.CTRL_GENERATE 0 1 0 1 
+key_mem_ctrl_reg.CTRL_DONE 1 0 0 1 
+
+State Machine - |FPGA_SOC|system:nios_system|aes_wrapper:aes_0|aes:DUT|aes_core:core|aes_decipher_block:dec_block|dec_ctrl_reg
+Name dec_ctrl_reg.CTRL_MAIN dec_ctrl_reg.CTRL_SBOX dec_ctrl_reg.CTRL_INIT dec_ctrl_reg.CTRL_IDLE 
+dec_ctrl_reg.CTRL_IDLE 0 0 0 0 
+dec_ctrl_reg.CTRL_INIT 0 0 1 1 
+dec_ctrl_reg.CTRL_SBOX 0 1 0 1 
+dec_ctrl_reg.CTRL_MAIN 1 0 0 1 
+
+State Machine - |FPGA_SOC|system:nios_system|aes_wrapper:aes_0|aes:DUT|aes_core:core|aes_encipher_block:enc_block|enc_ctrl_reg
+Name enc_ctrl_reg.CTRL_MAIN enc_ctrl_reg.CTRL_SBOX enc_ctrl_reg.CTRL_INIT enc_ctrl_reg.CTRL_IDLE 
+enc_ctrl_reg.CTRL_IDLE 0 0 0 0 
+enc_ctrl_reg.CTRL_INIT 0 0 1 1 
+enc_ctrl_reg.CTRL_SBOX 0 1 0 1 
+enc_ctrl_reg.CTRL_MAIN 1 0 0 1 
+
+State Machine - |FPGA_SOC|system:nios_system|chacha_wrapper:chacha_0|chacha:DUT|chacha_core:core|chacha_ctrl_reg
+Name chacha_ctrl_reg.CTRL_FINALIZE chacha_ctrl_reg.CTRL_ROUNDS chacha_ctrl_reg.CTRL_INIT chacha_ctrl_reg.CTRL_IDLE chacha_ctrl_reg.CTRL_DONE 
+chacha_ctrl_reg.CTRL_IDLE 0 0 0 0 0 
+chacha_ctrl_reg.CTRL_INIT 0 0 1 1 0 
+chacha_ctrl_reg.CTRL_ROUNDS 0 1 0 1 0 
+chacha_ctrl_reg.CTRL_FINALIZE 1 0 0 1 0 
+chacha_ctrl_reg.CTRL_DONE 0 0 0 1 1 
+
+State Machine - |FPGA_SOC|system:nios_system|prince_wrapper:prince_0|prince:DUT|prince_core:core|core_ctrl_reg
+Name core_ctrl_reg.CTRL_PIPE2 core_ctrl_reg.CTRL_PIPE1 core_ctrl_reg.CTRL_PIPE0 core_ctrl_reg.CTRL_IDLE core_ctrl_reg.CTRL_UPDATE 
+core_ctrl_reg.CTRL_IDLE 0 0 0 0 0 
+core_ctrl_reg.CTRL_PIPE0 0 0 1 1 0 
+core_ctrl_reg.CTRL_PIPE1 0 1 0 1 0 
+core_ctrl_reg.CTRL_PIPE2 1 0 0 1 0 
+core_ctrl_reg.CTRL_UPDATE 0 0 0 1 1 
+
+State Machine - |FPGA_SOC|system:nios_system|system_nios2_gen2_0:nios2_gen2_0|system_nios2_gen2_0_cpu:cpu|system_nios2_gen2_0_cpu_nios2_oci:the_system_nios2_gen2_0_cpu_nios2_oci|system_nios2_gen2_0_cpu_debug_slave_wrapper:the_system_nios2_gen2_0_cpu_debug_slave_wrapper|system_nios2_gen2_0_cpu_debug_slave_tck:the_system_nios2_gen2_0_cpu_debug_slave_tck|DRsize
+Name DRsize.101 DRsize.100 DRsize.011 DRsize.010 DRsize.001 DRsize.000 
+DRsize.000 0 0 0 0 0 0 
+DRsize.001 0 0 0 0 1 1 
+DRsize.010 0 0 0 1 0 1 
+DRsize.011 0 0 1 0 0 1 
+DRsize.100 0 1 0 0 0 1 
+DRsize.101 1 0 0 0 0 1 

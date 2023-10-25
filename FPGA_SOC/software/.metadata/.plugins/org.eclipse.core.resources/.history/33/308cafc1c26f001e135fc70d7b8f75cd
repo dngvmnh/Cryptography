@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <io.h>
+#include <system.h>
+int main()
+{
+printf("Hello from Nios II!\n");
+while(1) {
+IOWR(LED_BASE, 0, 0x155);
+usleep(100000);
+IOWR(LED_BASE, 0, 0x2aa);
+usleep(100000);
+}
+return 0;
+}

@@ -1,0 +1,7 @@
+|test
+in[0] => out.DATAA
+in[1] => out.DATAB
+sel => out.OUTPUTSELECT
+out << out.DB_MAX_OUTPUT_PORT_TYPE
+
+

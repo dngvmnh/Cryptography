@@ -1,0 +1,9 @@
+11:01:08 **** Incremental Build of configuration Nios II for project FPGA_SOC ****
+make all 
+Info: Building ../FPGA_SOC_bsp/
+C:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../FPGA_SOC_bsp/
+[BSP build complete]
+[FPGA_SOC build complete]
+
+11:01:08 Build Finished (took 644ms)
+

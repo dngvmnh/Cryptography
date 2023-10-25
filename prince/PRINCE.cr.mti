@@ -1,0 +1,22 @@
+C:/Users/dngvm/Projects/My_Projects/prince/prince_core.v {1 {vlog -work PRINCE -stats=none C:/Users/dngvm/Projects/My_Projects/prince/prince_core.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module prince_core
+
+Top level modules:
+	prince_core
+
+} {} {}} C:/Users/dngvm/Projects/My_Projects/prince/prince.v {1 {vlog -work PRINCE -stats=none C:/Users/dngvm/Projects/My_Projects/prince/prince.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module prince
+
+Top level modules:
+	prince
+
+} {} {}} C:/Users/dngvm/Projects/My_Projects/prince/tb_prince.v {1 {vlog -work PRINCE -stats=none C:/Users/dngvm/Projects/My_Projects/prince/tb_prince.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_prince
+
+Top level modules:
+	tb_prince
+
+} {} {}}

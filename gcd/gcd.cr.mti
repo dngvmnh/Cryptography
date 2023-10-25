@@ -1,0 +1,15 @@
+C:/Users/dngvm/Projects/My_Projects/gcd/gcd.v {1 {vlog -work gcd -stats=none C:/Users/dngvm/Projects/My_Projects/gcd/gcd.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gcd
+
+Top level modules:
+	gcd
+
+} {} {}} C:/Users/dngvm/Projects/My_Projects/gcd/gcd_tb.v {1 {vlog -work gcd -stats=none {C:\Users\dngvm\Projects\My_Projects\gcd\gcd_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gcd_tb
+
+Top level modules:
+	gcd_tb
+
+} {} {}}

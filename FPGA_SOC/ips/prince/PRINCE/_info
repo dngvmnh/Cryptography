@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vprince
+Z0 !s110 1697816744
+!i10b 1
+!s100 ^CR=SBk6fdlK<bTKOlKP?2
+IKTN0142_ZEll6kaA^eLc[2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/dngvm/Projects/My_Projects/prince
+Z3 w1697814165
+8C:/Users/dngvm/Projects/My_Projects/prince/prince.v
+FC:/Users/dngvm/Projects/My_Projects/prince/prince.v
+Z4 L0 41
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1697816744.000000
+!s107 C:/Users/dngvm/Projects/My_Projects/prince/prince.v|
+!s90 -reportprogress|300|-work|PRINCE|-stats=none|C:/Users/dngvm/Projects/My_Projects/prince/prince.v|
+!i113 1
+Z7 o-work PRINCE
+Z8 tCvgOpt 0
+vprince_core
+R0
+!i10b 1
+!s100 g<c^C8No@4zh411k]e4J92
+IY?];9geIR]:Jd_=]g7g8L2
+R1
+R2
+R3
+8C:/Users/dngvm/Projects/My_Projects/prince/prince_core.v
+FC:/Users/dngvm/Projects/My_Projects/prince/prince_core.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/dngvm/Projects/My_Projects/prince/prince_core.v|
+!s90 -reportprogress|300|-work|PRINCE|-stats=none|C:/Users/dngvm/Projects/My_Projects/prince/prince_core.v|
+!i113 1
+R7
+R8
+vtb_prince
+R0
+!i10b 1
+!s100 fdbZFn1Eld]<MZCQkM42j3
+IMW?:_?KL6FTUiOSP_a]5R0
+R1
+R2
+R3
+8C:/Users/dngvm/Projects/My_Projects/prince/tb_prince.v
+FC:/Users/dngvm/Projects/My_Projects/prince/tb_prince.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/dngvm/Projects/My_Projects/prince/tb_prince.v|
+!s90 -reportprogress|300|-work|PRINCE|-stats=none|C:/Users/dngvm/Projects/My_Projects/prince/tb_prince.v|
+!i113 1
+R7
+R8

@@ -36,4 +36,12 @@ For more details, please see our code repository: [System on Chip Design]( https
 
 ## Results and discussion
 
+In terms of our Printed Circuit Board design, the 18650 rechargeable batteries can be charged and protected from overheating or overloading by the voltage-reducing and load-cutting charging circuit. The circuit design uses the 1N5819 diode and LM317 voltage regulator, which control the current direction and adjust the output voltage according to a custom signal. This way, the 18650 rechargeable batteries can handle different input voltage levels.
+
+Regarding simulating section, despite the improvements in speed, performance, and security of the PRINCE encryption algorithm, we still spot some potential difficulties and dangers. PRINCE encryption has advanced in terms of asymmetry, but the algorithm can still be compromised by brute-force techniques. The sizes of bits and bytes in PRINCE encryption are relatively small, so applications that require more bits or bytes for encryption may not be compatible with it.
+
+Images and videos of this project can be found here: [Media]()
+
 ## Report
+
+For further information, please refer to our report: [View on GitHub]() or [Download PDF]()

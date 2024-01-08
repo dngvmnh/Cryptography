@@ -40,8 +40,8 @@ In terms of our Printed Circuit Board design, the 18650 rechargeable batteries c
 
 Regarding simulating section, despite the improvements in speed, performance, and security of the PRINCE encryption algorithm, we still spot some potential difficulties and dangers. PRINCE encryption has advanced in terms of asymmetry, but the algorithm can still be compromised by brute-force techniques. The sizes of bits and bytes in PRINCE encryption are relatively small, so applications that require more bits or bytes for encryption may not be compatible with it.
 
-Images and videos of this project can be found here: [Media]()
+Images and videos of this project can be found here: [Media](https://github.com/dngvmnh/Cryptography/tree/main/Result/Media)
 
 ## Report
 
-For further information, please refer to our report: [View on GitHub]() or [Download PDF]()
+For further information, please refer to our report: [View on GitHub](https://github.com/dngvmnh/Cryptography/blob/main/Result/Report/PIISE%20-%20Report%20-%20KHTN.pdf) or [Download PDF](https://github.com/dngvmnh/Cryptography/raw/main/Result/Report/PIISE%20-%20Report%20-%20KHTN.pdf)

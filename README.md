@@ -30,7 +30,7 @@ The implementation of this project includes three main stages: designing our own
   
 -	We used Intel DE10 Standard FPGA Board in order to assemble a preconfigured microcontroller. The SoC System use the Nios 2 CPU as the processor.
   
--	This project delved into to the application of Bolean Algebra: Full and Half Adder 1 Bit. In many computers and other kinds of processors, adders are used in the arithmetic logic units (ALUs)used to calculate addresses, table indices, increment and decrement operators and similar operations.
+-	This project delved into to the application of Bolean Algebra: Full and Half Adder 1 Bit. In many computers and other kinds of processors, adders are used in the arithmetic logic units (ALUs) used to calculate addresses, table indices, increment and decrement operators and similar operations.
   
 For more details, please see our code repository: [System on Chip Design]( https://github.com/dngvmnh/Cryptography/tree/main/FPGA_SOC%20files), [AES Algorithm]( https://github.com/dngvmnh/Cryptography/tree/main/aes), [ChaCha20 Algorithm]( https://github.com/dngvmnh/Cryptography/tree/main/chacha), [PRINCE Algorithm]( https://github.com/dngvmnh/Cryptography/tree/main/prince).
 

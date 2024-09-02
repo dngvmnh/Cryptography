@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=MiniPC.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=Mini PC - Motherboard\MiniPC.PrjPcb
+Record=SubProject|SourceDocument=MiniPC.MbsDoc|ProjectPath=Mini PC - Motherboard\MiniPC.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MiniPC.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=Mini PC - SODIMM\PC4-SODIMM_V200_RC_A1_20141015.PrjPcb
+Record=SubProject|SourceDocument=MiniPC.MbsDoc|ProjectPath=Mini PC - SODIMM\PC4-SODIMM_V200_RC_A1_20141015.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MiniPC.MbsDoc|Kind=Multi-board Schematic Module|Designator=M3|Source=Mini PC - SODIMM\PC4-SODIMM_V200_RC_A1_20141015.PrjPcb
+Record=SubProject|SourceDocument=MiniPC.MbsDoc|ProjectPath=Mini PC - SODIMM\PC4-SODIMM_V200_RC_A1_20141015.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MiniPC.MbsDoc|Kind=Multi-board Schematic Module|Designator=M4|Source=Mini PC - WiFi\WiFi_miniPCIe.PrjPcb
+Record=SubProject|SourceDocument=MiniPC.MbsDoc|ProjectPath=Mini PC - WiFi\WiFi_miniPCIe.PrjPcb

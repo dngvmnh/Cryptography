@@ -1,0 +1,423 @@
+10:23:32.032 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+10:23:32.052 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+10:23:32.339 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+10:23:32.536 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.MMsdft (objects:38) 
+10:23:32.582 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.dft (objects:38) 
+13:16:30.655 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:16:30.860 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:16:49.383 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:16:49.552 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:18:00.471 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:18:00.613 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:18:55.929 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:18:56.059 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:28:03.436 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+13:28:03.436 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+13:28:03.592 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+13:28:03.779 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.MMsdft (objects:38) 
+13:28:03.818 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.dft (objects:38) 
+13:28:50.699 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:28:50.790 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:31:32.569 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:31:32.626 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:31:51.369 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:31:51.426 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:35:10.320 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:35:10.377 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:35:36.437 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:35:36.490 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:35:50.448 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:35:50.506 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:36:05.860 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:36:05.913 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:36:17.535 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:36:17.587 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:36:28.573 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:36:28.628 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:36:35.546 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:36:35.599 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:44:56.507 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+13:44:56.516 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+13:44:56.678 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+13:44:56.753 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.MMsdft (objects:38) 
+13:44:56.793 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.dft (objects:38) 
+13:46:31.336 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:46:31.422 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:47:03.884 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:47:03.935 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:47:09.060 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:47:09.112 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:47:18.110 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:47:18.160 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:49:26.698 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:49:26.753 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:50:12.939 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:50:12.989 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+13:52:42.087 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+13:52:42.139 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+14:00:52.919 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+14:00:52.919 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+14:00:53.066 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+14:00:53.201 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.MMsdft (objects:38) 
+14:00:53.239 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.dft (objects:38) 
+15:15:13.069 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+15:15:13.197 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+15:15:50.656 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (Free Documents): 1 
+15:15:50.732 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (Free Documents): 0 
+17:12:42.173 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc - sheet was imported (objects:92) 
+17:12:42.309 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V1) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc, projectFullPath: Free Documents, isDeviceSheet: False 
+17:12:42.469 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V2) (0.159 s) DocumentLoading finished 
+17:12:51.533 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00.0125643, MEDIAN = 0:00:00.0635684, MAX = 0:00:00.1145725 
+17:13:08.761 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 137 ms 
+17:13:46.096 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 31 ms 
+17:13:46.096 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 126 ms 
+17:14:01.590 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 130 ms 
+17:14:09.568 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 44 ms 
+17:14:09.577 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 137 ms 
+17:14:12.203 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Begin: 46 ms 
+17:14:15.408 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.InProgress avg: 2 ms, max: 13 ms, total: 280 ms, count: 112 
+17:14:15.947 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:14:15.967 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 20 ms (Full:517 ms) 
+17:14:15.967 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Finishing: 560 ms 
+17:14:15.967 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.General: 608 ms 
+17:14:21.576 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00.0050036, MEDIAN = 0:00:00.0050036, MAX = 0:00:00.0050036 
+17:14:25.628 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 127 ms 
+17:15:30.213 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 33 ms 
+17:15:30.220 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 116 ms 
+17:15:42.833 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 110 ms 
+17:16:30.467 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 47 ms 
+17:16:30.467 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 145 ms 
+17:16:38.280 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Begin: 73 ms 
+17:16:41.958 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.InProgress avg: 3 ms, max: 20 ms, total: 559 ms, count: 201 
+17:16:42.025 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:16:42.025 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:62 ms) 
+17:16:42.025 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Finishing: 68 ms 
+17:16:42.025 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.General: 144 ms 
+17:16:47.506 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 55 ms 
+17:16:51.654 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00.0083942, MEDIAN = 0:00:00.0083942, MAX = 0:00:00.0083942 
+17:17:15.682 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 25 ms 
+17:17:15.688 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 77 ms 
+17:17:18.739 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.$$$ (objects:92) 
+17:17:41.510 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 140 ms 
+17:18:00.901 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb' 
+17:18:01.489 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Start Load Project Data C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:18:01.498 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Project loading... Documents: 1 
+17:18:01.514 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc - sheet was imported (objects:92) 
+17:18:01.541 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V2) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectLoaded 
+17:18:01.541 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: (0.047 s) Load Project C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb Completed, 1 schematics 
+17:18:01.547 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V2) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc, projectFullPath: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, isDeviceSheet: False 
+17:18:01.547 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectDocumentsOrderChanged 
+17:18:01.547 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): DCCW.DocumentLoading (delayed) 
+17:18:01.547 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V5) (0.002 s) DocumentLoading finished 
+17:18:01.575 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V2) (0.001 s) Plugin 'UniqueIdsRepairer' completed 
+17:18:01.583 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V2) (0.007 s) Plugin 'SheetNumberingUpdater' completed 
+17:18:01.583 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V2) Unique ePostCompile notification register: eStructureChanged 
+17:18:01.583 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V2) (0.002 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:18:01.583 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V2) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:18:01.583 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmProjectView: '' 
+17:18:01.698 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V2) (0.110 s) Project  compilation completed 
+17:18:02.009 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.062 s) ViolationManagerConsumer (Incoming violations:7, Total violations:7, Delete existing:True) 
+17:18:02.009 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V2) (0.146 s) ERC default completed 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.470 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) (0.002 s) Project DDM Compiled notifications end 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.001 s) Plugin 'SheetNumberingUpdater' completed 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) Unique ePostCompile notification register: eStructureChanged 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V5) (0.000 s) Project  compilation completed 
+17:18:02.015 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:7, Total violations:7, Delete existing:True) 
+17:18:02.015 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V5) (0.000 s) ERC default completed 
+17:18:02.015 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.009 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) (0.005 s) Markers for Schematic Error Objects: 27 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) (0.061 s) Compile Notifications end 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V2) CompileNotifications sending... 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Project DDM Compiled notifications end 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Markers for Schematic Error Objects: 27 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Compile Notifications end 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotifications sending... 
+17:18:02.080 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.000 s) Project logical compilation completed 
+17:18:02.132 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotification sent. 
+17:18:09.344 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:18:09.344 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:0, Total violations:7, Delete existing:False) 
+17:18:09.344 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V5) (0.007 s) ERC long running completed 
+17:18:09.444 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V5) ProjectAdapter.PopulateMessagesManager (7) 
+17:18:09.521 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:18:11.880 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:18:18.455 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+17:18:18.455 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+17:18:18.483 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+17:18:33.397 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:18:33.411 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+17:18:35.902 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:18:35.906 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V5) ProjectAdapter.PopulateMessagesManager (7) 
+17:18:35.952 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:18:36.246 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:18:41.900 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+17:18:42.168 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+17:18:43.805 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:18:43.817 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+17:19:35.688 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 42 ms 
+17:19:35.688 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 108 ms 
+17:19:41.748 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00.0067944, MEDIAN = 0:00:00.0067944, MAX = 0:00:00.0067944 
+17:19:54.343 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 136 ms 
+17:20:13.783 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:20:13.783 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V5) ProjectAdapter.PopulateMessagesManager (7) 
+17:20:13.835 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:20:15.927 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:20:21.963 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+17:20:21.979 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+17:20:21.982 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+17:20:26.714 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:20:26.728 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+17:20:31.377 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:20:31.377 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V5) ProjectAdapter.PopulateMessagesManager (7) 
+17:20:31.425 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:20:31.656 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:20:36.360 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+17:20:36.723 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+17:20:38.424 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:20:38.424 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+17:21:58.008 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 51 ms 
+17:21:58.017 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 147 ms 
+17:22:01.582 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\History\00000000E678456B\Solar_Charger.~(4).SchDoc 
+17:22:01.629 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\History\00000000E678456B\Solar_Charger.~(4).SchDoc 
+17:22:01.647 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.$$$ (objects:92) 
+17:22:01.677 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc 
+17:22:01.858 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00.0067457, MEDIAN = 0:00:00.0067457, MAX = 0:00:00.0067457 
+17:22:13.111 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:22:13.111 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V5) ProjectAdapter.PopulateMessagesManager (7) 
+17:22:13.174 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:22:13.618 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:22:19.405 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+17:22:19.691 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+17:22:21.558 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:22:21.570 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+17:22:21.874 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00.0032024, MEDIAN = 0:00:00.0032024, MAX = 0:00:00.0032024 
+17:23:30.418 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 46 ms 
+17:23:30.426 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 145 ms 
+17:23:34.422 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:23:34.422 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V5) ProjectAdapter.PopulateMessagesManager (7) 
+17:23:34.487 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:23:34.805 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:23:41.920 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00.0019623, MEDIAN = 0:00:00.0019623, MAX = 0:00:00.0019623 
+17:23:53.298 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:23:53.298 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+17:24:08.942 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Begin: 64 ms 
+17:24:12.933 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.InProgress avg: 2 ms, max: 17 ms, total: 659 ms, count: 303 
+17:24:13.217 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:244 ms) 
+17:24:13.217 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Finishing: 284 ms 
+17:24:13.217 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.General: 349 ms 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V7) (0.000 s) Project  compilation completed 
+17:24:13.217 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:7, Total violations:7, Delete existing:True) 
+17:24:13.217 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V7) (0.000 s) ERC default completed 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.003 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.000 s) Project DDM Compiled notifications end 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.000 s) Markers for Schematic Error Objects: 27 
+17:24:13.217 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.000 s) Compile Notifications end 
+17:24:14.518 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 7 ms 
+17:24:14.529 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): BBPAPATW 
+17:24:14.529 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+17:24:14.529 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 18 ms 
+17:24:21.936 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00.0026222, MEDIAN = 0:00:00.012539, MAX = 0:00:00.0224559 
+17:24:26.276 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\History\00000000E678456B\Solar_Charger.~(5).SchDoc 
+17:24:26.326 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\History\00000000E678456B\Solar_Charger.~(5).SchDoc 
+17:24:26.347 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.$$$ (objects:92) 
+17:24:26.385 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc 
+17:24:31.032 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V7) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:24:31.032 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:0, Total violations:7, Delete existing:False) 
+17:24:31.032 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V7) (0.000 s) ERC long running completed 
+17:24:31.032 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V7) ProjectAdapter.PopulateMessagesManager (7) 
+17:24:31.057 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.001 s) Project logical compilation completed 
+17:24:31.125 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:24:31.398 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:24:31.950 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00.0038571, MEDIAN = 0:00:00.0038571, MAX = 0:00:00.0038571 
+17:24:50.922 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+17:24:51.257 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+17:24:54.147 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:24:54.158 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+17:25:19.609 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 40 ms 
+17:25:19.609 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 135 ms 
+17:25:24.899 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:25:24.899 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+17:25:26.139 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 3 ms 
+17:25:26.139 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): BBPAPATW 
+17:25:26.139 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+17:25:26.139 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 5 ms 
+17:25:26.725 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:25:26.761 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+17:25:26.761 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 3 ms (Full:5 ms) 
+17:25:26.761 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:25:26.761 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+17:25:26.761 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:25:26.761 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:25:26.763 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V8) (0.000 s) Project  compilation completed 
+17:25:26.763 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:6, Total violations:6, Delete existing:True) 
+17:25:26.763 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V8) (0.001 s) ERC default completed 
+17:25:26.763 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.010 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:25:26.782 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.001 s) Project DDM Compiled notifications end 
+17:25:26.782 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:25:26.782 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:25:26.782 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.000 s) Markers for Schematic Error Objects: 25 
+17:25:26.782 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.000 s) Compile Notifications end 
+17:25:31.969 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 4, MIN = 0:00:00.0059087, MEDIAN = 0:00:00.0068079, MAX = 0:00:00.0087196 
+17:25:32.649 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:25:32.649 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 4 ms 
+17:25:32.649 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+17:25:37.706 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): BBPAPATW 
+17:25:37.706 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+17:25:37.706 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 1 ms (Full:5 ms) 
+17:25:37.706 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:25:37.706 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+17:25:37.706 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:25:37.706 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:25:37.706 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V9) (0.002 s) Project  compilation completed 
+17:25:37.706 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:7, Total violations:7, Delete existing:True) 
+17:25:37.706 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V9) (0.001 s) ERC default completed 
+17:25:37.706 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.007 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:25:37.732 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.001 s) Project DDM Compiled notifications end 
+17:25:37.732 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:25:37.732 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:25:37.732 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.000 s) Markers for Schematic Error Objects: 27 
+17:25:37.732 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.001 s) Compile Notifications end 
+17:25:39.623 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:25:39.623 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V10) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+17:25:39.623 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:1 ms) 
+17:25:39.623 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V10) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:25:39.623 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V10) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+17:25:39.623 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V10) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:25:39.623 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V10) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:25:39.623 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V10) (0.001 s) Project  compilation completed 
+17:25:39.623 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.004 s) ViolationManagerConsumer (Incoming violations:6, Total violations:6, Delete existing:True) 
+17:25:39.623 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V10) (0.005 s) ERC default completed 
+17:25:39.623 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V10) (0.011 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:25:39.646 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) (0.001 s) Project DDM Compiled notifications end 
+17:25:39.646 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:25:39.646 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:25:39.646 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) (0.000 s) Markers for Schematic Error Objects: 25 
+17:25:39.646 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) (0.001 s) Compile Notifications end 
+17:25:41.969 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 4, MIN = 0:00:00.0056972, MEDIAN = 0:00:00.0094266, MAX = 0:00:00.0147447 
+17:25:48.079 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+17:25:48.079 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): XYRIIVNG 
+17:25:48.079 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+17:25:48.079 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 4 ms 
+17:25:49.421 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (2): XYRIIVNG, BBPAPATW 
+17:25:49.421 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V11) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+17:25:49.421 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 1 ms (Full:5 ms) 
+17:25:49.421 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V11) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:25:49.421 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V11) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+17:25:49.421 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V11) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:25:49.421 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V11) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:25:49.421 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V11) (0.001 s) Project  compilation completed 
+17:25:49.421 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:7, Total violations:7, Delete existing:True) 
+17:25:49.421 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V11) (0.001 s) ERC default completed 
+17:25:49.421 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V11) (0.006 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:25:49.448 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) (0.001 s) Project DDM Compiled notifications end 
+17:25:49.448 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:25:49.448 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:25:49.448 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) (0.001 s) Markers for Schematic Error Objects: 27 
+17:25:49.448 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) (0.001 s) Compile Notifications end 
+17:25:50.411 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.001 s) Project logical compilation completed 
+17:25:51.970 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 3, MIN = 0:00:00.0058319, MEDIAN = 0:00:00.0066037, MAX = 0:00:00.0133358 
+17:26:02.078 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): BBPAPATW 
+17:26:02.078 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:26:02.078 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+17:26:02.078 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:1 ms) 
+17:26:02.078 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:26:02.078 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+17:26:02.078 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:26:02.078 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:26:02.078 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V12) (0.001 s) Project  compilation completed 
+17:26:02.097 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.008 s) ViolationManagerConsumer (Incoming violations:10, Total violations:10, Delete existing:True) 
+17:26:02.097 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V12) (0.013 s) ERC default completed 
+17:26:02.097 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) (0.017 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:26:02.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) (0.000 s) Project DDM Compiled notifications end 
+17:26:02.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:26:02.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:26:02.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) (0.001 s) Markers for Schematic Error Objects: 27 
+17:26:02.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) (0.001 s) Compile Notifications end 
+17:26:11.982 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00.0058871, MEDIAN = 0:00:00.0072608, MAX = 0:00:00.0086346 
+17:26:56.231 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:26:56.243 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 4 ms 
+17:26:56.243 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): EFYEQITP 
+17:26:56.258 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V13) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+17:26:56.258 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 1 ms (Full:20 ms) 
+17:26:56.258 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V13) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:26:56.258 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V13) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+17:26:56.258 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V13) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:26:56.258 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V13) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:26:56.263 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V13) (0.004 s) Project  compilation completed 
+17:26:56.263 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.001 s) ViolationManagerConsumer (Incoming violations:11, Total violations:11, Delete existing:True) 
+17:26:56.263 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V13) (0.002 s) ERC default completed 
+17:26:56.263 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V13) (0.009 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:26:56.263 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) (0.000 s) Project DDM Compiled notifications end 
+17:26:56.263 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:26:56.263 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:26:56.263 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) (0.000 s) Markers for Schematic Error Objects: 28 
+17:26:56.263 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) (0.000 s) Compile Notifications end 
+17:27:01.496 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): EFYEQITP 
+17:27:02.000 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 3, MIN = 0:00:00.0032406, MEDIAN = 0:00:00.007988, MAX = 0:00:00.0084686 
+17:27:04.562 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): EFYEQITP 
+17:27:05.083 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 4 ms 
+17:27:05.083 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): FYHQJMSG 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 1 ms (Full:3607 ms) 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V14) (0.001 s) Project  compilation completed 
+17:27:05.107 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:11, Total violations:11, Delete existing:True) 
+17:27:05.107 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V14) (0.001 s) ERC default completed 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) (0.006 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) (0.001 s) Project DDM Compiled notifications end 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) (0.001 s) Markers for Schematic Error Objects: 28 
+17:27:05.107 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) (0.001 s) Compile Notifications end 
+17:27:06.153 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+17:27:06.153 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+17:27:06.153 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+17:27:07.143 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\History\00000000E678456B\Solar_Charger.~(6).SchDoc 
+17:27:07.189 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\History\00000000E678456B\Solar_Charger.~(6).SchDoc 
+17:27:07.203 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.$$$ (objects:92) 
+17:27:07.220 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc 
+17:27:11.607 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V14) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:27:11.607 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:0, Total violations:11, Delete existing:False) 
+17:27:11.607 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V14) (0.000 s) ERC long running completed 
+17:27:11.607 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V14) ProjectAdapter.PopulateMessagesManager (11) 
+17:27:11.629 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.001 s) Project logical compilation completed 
+17:27:11.686 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:27:12.013 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 5, MIN = 0:00:00.0018605, MEDIAN = 0:00:00.008242, MAX = 0:00:00.0090456 
+17:27:16.348 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:27:17.811 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:27:17.811 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+17:27:19.732 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 110 ms 
+17:27:22.909 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 7 ms 
+17:27:22.921 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 139 ms 
+17:27:25.577 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V14) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+17:27:25.577 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V14) ProjectAdapter.PopulateMessagesManager (11) 
+17:27:25.641 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 1 
+17:27:32.013 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00.0056881, MEDIAN = 0:00:00.0056881, MAX = 0:00:00.0056881 
+17:27:33.910 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+17:27:46.072 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+17:27:46.460 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+17:27:50.061 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+17:27:50.061 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\Solar_Charger\PCB_Project\PCB_Project.PrjPcb): 0 
+20:36:46.996 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+20:36:46.998 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+20:36:47.345 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+20:36:47.600 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.MMsdft (objects:38) 
+20:36:47.642 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.dft (objects:38) 

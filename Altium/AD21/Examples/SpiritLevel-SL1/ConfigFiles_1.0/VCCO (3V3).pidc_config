@@ -1,0 +1,295 @@
+{
+  "BoardFile": "C:\\Users\\Public\\Documents\\Altium\\AD16.1\\Examples\\SpiritLevel-SL1\\SL1 Xilinx Spartan-IIE PQ208 Rev1.02.PcbDoc",
+  "SourcePowerNet": "VCCO",
+  "LoadPowerNet": "VCCO",
+  "GroundNet": "GND",
+  "SourceModel": {
+    "Name": null,
+    "PowerNet": "VCCO",
+    "PowerComponent": "U3",
+    "PowerPins": [
+      "U3-2"
+    ],
+    "GroundNet": "GND",
+    "GroundComponent": "J1",
+    "GroundPins": [
+      "J1-2",
+      "J1-3"
+    ],
+    "SourceProperties": {
+      "MinDCVoltage": 3.15,
+      "MaxResistance": 0.0,
+      "MaxDCCurrent": 5.0,
+      "MaxPinCurrent": 0.0,
+      "MaxGndPinCurrent": 0.0
+    },
+    "LoadProperties": {
+      "UseCurrent": true,
+      "MaxDCCurrent": 0.0,
+      "MinResistance": 0.0,
+      "MinDCVoltage": 0.0
+    }
+  },
+  "LoadModels": [
+    {
+      "Name": null,
+      "PowerNet": "VCCO",
+      "PowerComponent": "R20",
+      "PowerPins": [
+        "R20-2"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "U6",
+      "GroundPins": [
+        "U6-3"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": false,
+        "MaxDCCurrent": 0.0,
+        "MinResistance": 270.0,
+        "MinDCVoltage": 3.0
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "VCCO",
+      "PowerComponent": "U5",
+      "PowerPins": [
+        "U5-18"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "U5",
+      "GroundPins": [
+        "U5-11"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 0.01,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 3.0
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "VCCO",
+      "PowerComponent": "U5",
+      "PowerPins": [
+        "U5-19"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "U5",
+      "GroundPins": [
+        "U5-11"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 0.04,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 3.0
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "VCCO",
+      "PowerComponent": "U5",
+      "PowerPins": [
+        "U5-20"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "U5",
+      "GroundPins": [
+        "U5-11"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 0.05,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 3.0
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "VCCO",
+      "PowerComponent": "U1",
+      "PowerPins": [
+        "U1-13",
+        "U1-26",
+        "U1-38",
+        "U1-53",
+        "U1-66",
+        "U1-78",
+        "U1-91",
+        "U1-105",
+        "U1-118",
+        "U1-130",
+        "U1-143",
+        "U1-156",
+        "U1-171",
+        "U1-184",
+        "U1-196",
+        "U1-208"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "U1",
+      "GroundPins": [
+        "U1-1",
+        "U1-12",
+        "U1-19",
+        "U1-25",
+        "U1-32",
+        "U1-39",
+        "U1-50",
+        "U1-51",
+        "U1-54",
+        "U1-65",
+        "U1-72",
+        "U1-79",
+        "U1-85",
+        "U1-92",
+        "U1-103",
+        "U1-117",
+        "U1-124",
+        "U1-131",
+        "U1-137",
+        "U1-144",
+        "U1-158",
+        "U1-170",
+        "U1-177",
+        "U1-182",
+        "U1-183",
+        "U1-185",
+        "U1-190",
+        "U1-197"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 1.875,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 3.0
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "VCCO",
+      "PowerComponent": "R11",
+      "PowerPins": [
+        "R11-1"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "U2",
+      "GroundPins": [
+        "U2-3"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 0.005,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 3.0
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "VCCO",
+      "PowerComponent": "Y1",
+      "PowerPins": [
+        "Y1-4"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "Y1",
+      "GroundPins": [
+        "Y1-2"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 0.012,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 3.0
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "VCCO",
+      "PowerComponent": "R16",
+      "PowerPins": [
+        "R16-1"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "S3",
+      "GroundPins": [
+        "S3-3",
+        "S3-4"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": false,
+        "MaxDCCurrent": 0.012,
+        "MinResistance": 4700.0,
+        "MinDCVoltage": 3.0
+      }
+    }
+  ],
+  "Conductiviy": 58800000.0,
+  "ConductivityOptions": {
+    "BaseTemperature": 25.0,
+    "WorkTemperature": 25.0,
+    "BaseConductiviy": 58800000.0,
+    "Coefficient": 0.4
+  },
+  "IgnoreNets": [],
+  "PassiveGroups": []
+}

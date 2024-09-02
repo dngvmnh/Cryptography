@@ -1,0 +1,172 @@
+13:26:56.008 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb' 
+13:26:56.099 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Start Load Project Data C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb 
+13:26:56.111 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Project loading... Documents: 1 
+13:26:56.302 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\L1S2.SchDoc - sheet was imported (objects:109) 
+13:26:56.394 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmProjectView: '' 
+13:26:56.505 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb): DCCW.ProjectLoaded 
+13:26:56.505 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: (0.396 s) Load Project C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb Completed, 1 schematics 
+13:26:56.553 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) (0.002 s) Plugin 'UniqueIdsRepairer' completed 
+13:26:56.566 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) (0.011 s) Plugin 'SheetNumberingUpdater' completed 
+13:26:56.566 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V3) Unique ePostCompile notification register: eStructureChanged 
+13:26:56.566 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) (0.001 s) Plugin 'ProjectStructureChangesNotifier' completed 
+13:26:56.566 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+13:26:56.676 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V3) (0.106 s) Project  compilation completed 
+13:26:57.023 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.008 s) ViolationManagerConsumer (Incoming violations:2, Total violations:2, Delete existing:True) 
+13:26:57.023 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V3) (0.162 s) ERC default completed 
+13:26:57.026 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) (0.518 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb, Compiled: True 
+13:26:57.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) (0.001 s) Project DDM Compiled notifications end 
+13:26:57.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb 
+13:26:57.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb 
+13:26:57.084 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) (0.005 s) Markers for Schematic Error Objects: 0 
+13:26:57.084 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) (0.053 s) Compile Notifications end 
+13:26:57.084 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V3) CompileNotifications sending... 
+13:26:57.096 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.000 s) Project logical compilation completed 
+13:26:57.151 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V3) CompileNotification sent. 
+13:27:02.790 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+13:27:02.888 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+13:27:11.142 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\L1S2.SchDoc - sheet was taken from cache (objects:109) 
+13:27:11.176 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V3) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\L1S2.SchDoc, projectFullPath: C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb, isDeviceSheet: False 
+13:27:11.188 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) Compilation requested (C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb): DCCW.DocumentLoading (delayed) 
+13:27:11.188 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V5) (0.011 s) DocumentLoading finished 
+13:27:11.188 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+13:27:11.188 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+13:27:11.188 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+13:27:11.188 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+13:27:11.188 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V5) (0.000 s) Project  compilation completed 
+13:27:11.188 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:2, Total violations:2, Delete existing:True) 
+13:27:11.188 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V5) (0.003 s) ERC default completed 
+13:27:11.188 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.006 s) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb, Compiled: True 
+13:27:11.210 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.Open: 745 ms 
+13:27:12.088 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.Show.Drawing: 396 ms 
+13:27:12.097 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.Show: 887 ms 
+13:27:12.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Project DDM Compiled notifications end 
+13:27:12.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb 
+13:27:12.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb 
+13:27:12.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Markers for Schematic Error Objects: 22 
+13:27:12.097 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.000 s) Compile Notifications end 
+13:27:20.498 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00.0113749, MEDIAN = 0:00:00.0765923, MAX = 0:00:00.1418098 
+13:30:02.729 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+13:30:03.810 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.001 s) Project logical compilation completed 
+13:30:08.139 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:30:08.139 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 3 ms 
+13:30:08.139 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+13:32:50.278 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\L1S1.SchDoc - sheet was imported (objects:79) 
+13:32:50.278 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V1) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\L1S1.SchDoc, projectFullPath: Free Documents, isDeviceSheet: False 
+13:32:50.278 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V2) (0.007 s) DocumentLoading finished 
+13:33:00.225 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00.004598, MEDIAN = 0:00:00.0055997, MAX = 0:00:00.0066015 
+13:35:21.423 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:35:21.423 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 3 ms 
+13:35:22.198 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:35:22.198 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 3 ms 
+13:40:27.897 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 21 ms 
+13:40:27.909 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 94 ms 
+13:40:33.122 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.AreaInside: 6 ms 
+13:40:33.122 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:40:33.122 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+13:42:54.549 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 1 ms 
+13:42:54.549 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 57 ms 
+13:43:02.734 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:02.734 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:05.023 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:05.023 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:06.875 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:06.875 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:08.483 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:08.483 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:13.561 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:13.561 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:16.732 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:16.732 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:18.012 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:18.012 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:19.507 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:19.507 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:24.709 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:24.709 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:26.278 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:26.278 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:27.463 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:27.463 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:28.353 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:28.354 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:31.458 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 93 ms 
+13:43:33.075 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 21 ms 
+13:43:33.075 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 117 ms 
+13:43:34.440 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:34.440 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:35.690 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:35.690 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:36.761 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:36.761 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:39.145 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:39.145 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:43:41.209 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:43:41.209 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:45:26.871 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:45:26.871 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:45:28.379 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:45:28.379 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:45:29.963 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:45:29.964 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:47:04.268 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:47:04.268 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:47:05.261 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:47:05.261 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:47:06.804 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:47:06.804 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:47:07.949 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:47:07.949 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:47:09.087 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:47:09.087 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:47:12.179 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:47:12.179 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:47:19.316 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:47:19.316 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+13:59:30.763 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 155 ms 
+13:59:53.704 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 18 ms 
+13:59:53.704 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 132 ms 
+13:59:55.449 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+13:59:55.449 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+14:00:00.923 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:00:00.923 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 6 ms 
+14:00:03.849 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 164 ms 
+14:00:07.257 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 128 ms 
+14:00:14.831 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 77 ms 
+14:13:37.403 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 172 ms 
+14:13:58.230 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc - sheet was imported (objects:92) 
+14:13:58.230 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V2) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.SchDoc, projectFullPath: Free Documents, isDeviceSheet: False 
+14:13:58.248 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V3) (0.011 s) DocumentLoading finished 
+14:14:08.015 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00.0029317, MEDIAN = 0:00:00.0035266, MAX = 0:00:00.0041216 
+14:14:09.570 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.AreaInside: 12 ms 
+14:14:09.573 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (40): BQDCHVCC, THZTHXYP, DRMEGQSU, XQUFVLCF, AXNRCZBP, IONSMQKD, BOLTRTHL, PUDJWQJJ, GERYSBBR, RNPMRGLS, XWIHINXC, BACSBOVW, FQIUTZCM, MQSFHRNL, BBVFVZXG, QELFBENS, PROWCSPL, ULRRYYAW, NETIULOW, QKVGZGPI, ISXKDHAF, HWHKDCUP, IMYXCFPX, CRADWXHG, TRSCOJIM, GEDKYSKY, FWSWVPLS, LCILFBOK, MQUOJLMT, KAFAJGKW, VQYXECMA, QCAYDGAP, MEMOKAMC, KCNTDLWZ, URTNMLLA, XQNGHKDP, NLZWODPP, EFYEQITP, WUSHHVOI, FYHQJMSG 
+14:14:09.573 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:14:12.007 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.AreaInside: 7 ms 
+14:14:12.007 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:14:12.007 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:14:15.404 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.AreaInside: 7 ms 
+14:14:15.404 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (43): WEJYNLJJ, ZURJQMIX, DRMEGQSU, XQUFVLCF, AXNRCZBP, IONSMQKD, BOLTRTHL, PUDJWQJJ, GERYSBBR, TKUKRBSE, AZGWZZRU, RNPMRGLS, XWIHINXC, BACSBOVW, FQIUTZCM, SYXXFPCP, BBVFVZXG, QELFBENS, PROWCSPL, ULRRYYAW, NETIULOW, QKVGZGPI, ISXKDHAF, HWHKDCUP, IMYXCFPX, CRADWXHG, TRSCOJIM, GEDKYSKY, FWSWVPLS, LCILFBOK, MQUOJLMT, KAFAJGKW, VQYXECMA, QCAYDGAP, MEMOKAMC, KCNTDLWZ, URTNMLLA, XQNGHKDP, NLZWODPP, EFYEQITP, PIRQVRMQ, WUSHHVOI, FYHQJMSG 
+14:14:15.404 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:14:18.016 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 3, MIN = 0:00:00.0020547, MEDIAN = 0:00:00.0037387, MAX = 0:00:00.0142466 
+14:14:19.859 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (43): WEJYNLJJ, ZURJQMIX, DRMEGQSU, XQUFVLCF, AXNRCZBP, IONSMQKD, BOLTRTHL, PUDJWQJJ, GERYSBBR, TKUKRBSE, AZGWZZRU, RNPMRGLS, XWIHINXC, BACSBOVW, FQIUTZCM, SYXXFPCP, BBVFVZXG, QELFBENS, PROWCSPL, ULRRYYAW, NETIULOW, QKVGZGPI, ISXKDHAF, HWHKDCUP, IMYXCFPX, CRADWXHG, TRSCOJIM, GEDKYSKY, FWSWVPLS, LCILFBOK, MQUOJLMT, KAFAJGKW, VQYXECMA, QCAYDGAP, MEMOKAMC, KCNTDLWZ, URTNMLLA, XQNGHKDP, NLZWODPP, EFYEQITP, PIRQVRMQ, WUSHHVOI, FYHQJMSG 
+14:14:19.879 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 21 ms (Full:22 ms) 
+14:14:20.206 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (43): WEJYNLJJ, ZURJQMIX, DRMEGQSU, XQUFVLCF, AXNRCZBP, IONSMQKD, BOLTRTHL, PUDJWQJJ, GERYSBBR, TKUKRBSE, AZGWZZRU, RNPMRGLS, XWIHINXC, BACSBOVW, FQIUTZCM, SYXXFPCP, BBVFVZXG, QELFBENS, PROWCSPL, ULRRYYAW, NETIULOW, QKVGZGPI, ISXKDHAF, HWHKDCUP, IMYXCFPX, CRADWXHG, TRSCOJIM, GEDKYSKY, FWSWVPLS, LCILFBOK, MQUOJLMT, KAFAJGKW, VQYXECMA, QCAYDGAP, MEMOKAMC, KCNTDLWZ, URTNMLLA, XQNGHKDP, NLZWODPP, EFYEQITP, PIRQVRMQ, WUSHHVOI, FYHQJMSG 
+14:14:20.206 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:5 ms) 
+14:14:21.240 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:14:21.240 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+14:14:21.240 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:14:28.030 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 3, MIN = 0:00:00.0031455, MEDIAN = 0:00:00.0039834, MAX = 0:00:00.0046087 
+14:14:40.457 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.AreaInside: 4 ms 
+14:14:40.457 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:14:40.457 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:30:35.840 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 159 ms 
+14:47:16.799 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 26 ms 
+14:47:16.807 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 121 ms 
+14:47:23.984 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 88 ms 
+15:15:58.098 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\Projects\Solar_Charger\Solar_Charger.$$$ (objects:92) 
+15:15:58.853 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Public\Documents\Altium\Projects\Traning_Deslab\Traning_Deslab.PrjPcb 
+15:15:58.877 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+15:15:58.921 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+15:16:00.166 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+15:16:00.250 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+15:16:00.544 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.MMsdft (objects:38) 
+15:16:00.568 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\dngvm\AppData\Roaming\Altium\Altium Designer {EDBE2B10-1A4B-4E12-97D0-E16E62BF9E1D}\Advsch.dft (objects:38) 

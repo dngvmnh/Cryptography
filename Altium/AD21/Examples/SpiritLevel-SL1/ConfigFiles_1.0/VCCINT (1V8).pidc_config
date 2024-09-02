@@ -1,0 +1,109 @@
+{
+  "BoardFile": "C:\\Users\\john.magyar\\Desktop\\PDN Demo\\SpiritLevel-SL1\\SL1 Xilinx Spartan-IIE PQ208 Rev1.02.PcbDoc",
+  "SourcePowerNet": "VCCINT",
+  "LoadPowerNet": "VCCINT",
+  "GroundNet": "GND",
+  "SourceModel": {
+    "Name": null,
+    "PowerNet": "VCCINT",
+    "PowerComponent": "PKMQNXYB|102637796|71181103|U4",
+    "PowerPins": [
+      "TNTKDKEM|102634409|72178899|U4-2"
+    ],
+    "GroundNet": "GND",
+    "GroundComponent": "TQWULNYY|110196851|77519686|J1",
+    "GroundPins": [
+      "NKGXFQTP|107247245|77520080|J1-2",
+      "HJBSTFTJ|106066142|79488584|J1-3"
+    ],
+    "SourceProperties": {
+      "MinDCVoltage": 1.8,
+      "MaxResistance": 0.0,
+      "MaxDCCurrent": 5.0,
+      "MaxPinCurrent": 0.0,
+      "MaxGndPinCurrent": 0.0
+    },
+    "LoadProperties": {
+      "UseCurrent": true,
+      "MaxDCCurrent": 0.0,
+      "MinResistance": 0.0,
+      "MinDCVoltage": 0.0
+    }
+  },
+  "LoadModels": [
+    {
+      "Name": null,
+      "PowerNet": "VCCINT",
+      "PowerComponent": "IXELJLSB|84429134|74045276|U1",
+      "PowerPins": [
+        "EPLLMFPG|78562127|76501183|U1-14",
+        "EAYVCSYN|78562127|73745277|U1-28",
+        "BXJVGOXA|78562127|71973624|U1-37",
+        "KDLOVJXF|82164489|68174410|U1-67",
+        "NEGPDKPK|83936143|68174411|U1-76",
+        "YMCJHPRH|86692048|68174411|U1-90",
+        "BBWLATHR|90294410|71776773|U1-119",
+        "KVCMLYBH|90294410|73548427|U1-128",
+        "NJEKRCJA|90294410|76304332|U1-142",
+        "GBBQBJVQ|86495198|79906695|U1-172",
+        "YBJDMFVV|83739292|79906695|U1-186",
+        "WFSCCYWO|81967639|79906695|U1-195"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "IXELJLSB|84429134|74045276|U1",
+      "GroundPins": [
+        "BSNFTIRK|78562127|79060238|U1-1",
+        "VLTDDPIT|78562126|76894884|U1-12",
+        "BGRWSBCT|78562127|75516932|U1-19",
+        "BNWUKYSS|78562127|74335828|U1-25",
+        "AUELSKKE|78562126|72957876|U1-32",
+        "DNJSNGDO|78562126|71579923|U1-39",
+        "LXUNRVKK|78562127|69414569|U1-50",
+        "ROHRFITI|78562127|69217717|U1-51",
+        "YATIJEBD|79605433|68174411|U1-54",
+        "KDUIHOCX|81770788|68174411|U1-65",
+        "NPYHOINY|83148741|68174411|U1-72",
+        "GSVBBIQK|84526694|68174411|U1-79",
+        "CBDAUKYW|85707796|68174411|U1-85",
+        "PSPKOHJA|87085749|68174411|U1-92",
+        "XYATWSOX|89251103|68174411|U1-103",
+        "OXRSOEVP|90294410|71383073|U1-117",
+        "GBJLDSCN|90294410|72761025|U1-124",
+        "QNSQCRTP|90294410|74138978|U1-131",
+        "SPXTTUFF|90294410|75320081|U1-137",
+        "SUIWWAWT|90294410|76698033|U1-144",
+        "IYGTDEVM|89251103|79906695|U1-158",
+        "XBJJMVIG|86888898|79906695|U1-170",
+        "QLNHPNFS|85510945|79906695|U1-177",
+        "GSFOWETY|84526694|79906695|U1-182",
+        "OEWOSPNA|84329844|79906695|U1-183",
+        "VHYMEDNU|83936144|79906695|U1-185",
+        "XYDBXIXV|82951891|79906695|U1-190",
+        "ATMXXTED|81573937|79906695|U1-197"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 0.5,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 1.7
+      }
+    }
+  ],
+  "Conductiviy": 58800000.0,
+  "ViaWallThickness": 0.7,
+  "ConductivityOptions": {
+    "BaseTemperature": 25.0,
+    "WorkTemperature": 25.0,
+    "BaseConductiviy": 58800000.0,
+    "Coefficient": 0.4
+  },
+  "IgnoreNets": [],
+  "PassiveGroups": []
+}
